@@ -22,8 +22,7 @@ NYNewsArticleAPI can be tested using the built in framework XCTest
 5. This will show a testing report for the app as well as the code coverage
 
 ## Architecture
-
-![Uploading figure-model-view-viewmodel-1.jpg…]()
+![figure-model-view-viewmodel-1](https://github.com/LukeBarkhuizen/News-Articles/assets/32700556/4605929f-2780-484f-b143-6d30ad1e3505)
 
 NYNewsArticleAPI is implemented using MVVM architecture pattern 
 
