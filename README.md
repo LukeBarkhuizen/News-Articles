@@ -40,3 +40,7 @@ NYNewsArticleAPI is implemented using MVVM architecture pattern
 
 1: Using the NY Times Most Popular Articles API
 2: Using swifts URLSession to make the API calls 
+
+## DEMO
+
+![ezgif-1-555823bc3b](https://github.com/LukeBarkhuizen/News-Articles/assets/32700556/db7944b5-59a1-4627-a7be-e6fe4bbe4840)
