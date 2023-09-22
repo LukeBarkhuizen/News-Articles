@@ -23,6 +23,8 @@ NYNewsArticleAPI can be tested using the built in framework XCTest
 
 ## Architecture
 
+![Uploading figure-model-view-viewmodel-1.jpg…]()
+
 NYNewsArticleAPI is implemented using MVVM architecture pattern 
 
 1. Model represents the data model 
